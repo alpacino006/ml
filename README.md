@@ -1,1 +1,1 @@
-# ml
+# HPC and ML Practicals
